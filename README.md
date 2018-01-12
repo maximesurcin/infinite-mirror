@@ -14,3 +14,4 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 <li>d'un recepteur bluetooth</li>
 <li>un mirroir</li>
 <li>une vitre reflectrice 50%</li>
+<li>une horloge</li>
