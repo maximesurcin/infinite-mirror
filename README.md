@@ -10,7 +10,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 <h1>Materiel utilisé</h1>
 <p>pour faire ce projet j'aurai besoin:
-<li>d'un ruban de 60 leds</li>
+<li>d'un ruban 1 m WS2812B 60 leds</li>
 <li>d'un recepteur bluetooth</li>
 <li>un mirroir</li>
 <li>une vitre reflectrice 50%</li>
